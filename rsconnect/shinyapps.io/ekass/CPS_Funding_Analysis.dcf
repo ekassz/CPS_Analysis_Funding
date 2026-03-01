@@ -1,0 +1,12 @@
+name: CPS_Funding_Analysis
+title: CPS_Funding_Analysis
+username: ekass
+account: ekass
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16790307
+bundleId: 11647474
+url: https://ekass.shinyapps.io/CPS_Funding_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
